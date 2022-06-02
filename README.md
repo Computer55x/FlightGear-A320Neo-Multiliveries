@@ -25,10 +25,10 @@ Pilot45 Virtual AirLines (BETA)
 
 ## Other liveries to come
 
-Winnie Pooh
-Winnie Cargo
-Honeylux
-YouTube Airways
+Winnie Pooh,
+Winnie Cargo,
+Honeylux,
+YouTube Airways and
 PHL
 
 This project is published under the GPL General Public Lisence. Me, as Pilot45, reserve the right at my very own discretion, to modify or remove this ressource at any given time. Use at own risk and discretion.
