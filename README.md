@@ -9,7 +9,7 @@ Please note that none of those liveries are REAL AIRLINES
 Download all files in a .zip folder.
 Unzip the folder.
 Make sure that all files like `P45.xml` and `A32neo-P45.png` are present in the folder.
-<!-- WARNING ! Make sure to rename `A32Neo-P45.png` as `A320Neo-P45`.png or the plugin will not work. -->
+! WARNING ! Make sure to rename `A32Neo-P45.png` as `A320Neo-P45`.png or the plugin will not work.
 Go to FlightGear Aircraft repository in your hard drive.
 Go in A320neo.
 Open the folder.
